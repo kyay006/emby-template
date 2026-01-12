@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "emby-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "e6983850-1f1d-4b21-8a65-cacc2fb2323b",
+			"database_name": "emby-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
